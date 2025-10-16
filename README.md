@@ -1,11 +1,11 @@
-# Experiment Next.js + Hono + Turborepo
+# example-next-hono-rpc-monorepo
 
 A modern full-stack web application built with Next.js, Hono, and Turborepo. This project demonstrates a monorepo setup with a React frontend and a lightweight Hono API backend, featuring user authentication, database integration, and modern development tooling.
 
 ## 📁 Project Structure
 
 ```
-experiment-next-hono-turborepo/
+example-next-hono-rpc-monorepo/
 ├── apps/
 │   ├── api/                 # Hono API server
 │   │   ├── src/
